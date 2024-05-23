@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Sujay-Kanwar/ActiveDirectoryLab)
-  - [Hello World!](https://github.com/Sujay-Kanwar/TestOutCertification)
+  - [Hello World!](https://github.com/Sujay-Kanwar/LINK)
 
 <h2>📄 Certifications</h2>
 
-- [TestOut Security Pro](LINK)
+- [TestOut Security Pro](https://github.com/Sujay-Kanwar/TestOutCertification)
 
 
 <h2>📺 Popular YouTube Videos</h2>
