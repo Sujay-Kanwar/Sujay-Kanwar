@@ -1,8 +1,7 @@
 <h1>Hi, I'm Sujay! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  -.[Business Process Blueprints for SD]
-  -.[SAP COnfiguration Showcase (Mock IMG Setup)]
+  - [Business Process Blueprints for SD](https://github.com/Sujay-Kanwar/ActiveDirectoryLab)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
