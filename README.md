@@ -1,8 +1,8 @@
 <h1>Hi, I'm Sujay! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  -[Business Process Blueprints for SD]
-  -[SAP COnfiguration Showcase (Mock IMG Setup)]
+  -.[Business Process Blueprints for SD]
+  -.[SAP COnfiguration Showcase (Mock IMG Setup)]
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
