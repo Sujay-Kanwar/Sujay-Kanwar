@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   -[Business Process Blueprints for SD]
-  -[
+  -[SAP COnfiguration Showcase (Mock IMG Setup)]
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
