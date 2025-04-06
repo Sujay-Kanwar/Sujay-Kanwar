@@ -8,7 +8,7 @@ Focused on building systems, testing real business processes, and helping others
 ## 💼 Featured Projects
 
 ### SAP / Business Analyst
-- [SAP SD – Order-to-Cash Test Cases](https://github.com/Sujay-Kanwar/sap-sd-o2c-test-cases)  
+- [SAP SD – Order-to-Cash Test Cases](https://github.com/Sujay-Kanwar/order-to-cash-sd-test-cases)  
   *Mock UAT documentation for core and advanced O2C flows including intercompany, consignment, and third-party sales.*
 
 - [Business Process Blueprints for SD](https://github.com/Sujay-Kanwar/ActiveDirectoryLab) *(Rename repo title later for clarity)*
