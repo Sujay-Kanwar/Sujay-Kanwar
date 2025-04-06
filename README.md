@@ -11,7 +11,8 @@ Focused on building systems, testing real business processes, and helping others
 - [SAP SD – Order-to-Cash Test Cases](https://github.com/Sujay-Kanwar/order-to-cash-sd-test-cases)  
   *Mock UAT documentation for core and advanced O2C flows including intercompany, consignment, and third-party sales.*
 
-- [Business Process Blueprints for SD](https://github.com/Sujay-Kanwar/ActiveDirectoryLab) *(Rename repo title later for clarity)*
+- [SAP SD Process Blueprints](https://github.com/Sujay-Kanwar/ActiveDirectoryLab)  
+  *Blueprint-style documentation and mock config insights for SD module.* *(Rename repo title later for clarity)*
 
 ### Cybersecurity Projects
 - [Active Directory Home Lab](https://github.com/Sujay-Kanwar/ActiveDirectoryLab)  
