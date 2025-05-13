@@ -21,6 +21,10 @@ Focused on building systems, testing real business processes, and helping others
 - [Network Security Monitor (Zabbix)](https://github.com/Sujay-Kanwar/ZabbixNetworkSecurityMonitor)  
   *Open-source monitoring for internal network security using Zabbix.*
 
+### Website & Blogs
+- [The IoT Safety Handbook: Risks, Prevention, and Real-World Cases](https://sujaykanwarportfolio.wordpress.com/capstone/)  
+  *The rapid growth of IoT and the accompanying safety risks.*
+
 ---
 
 ## 📄 Certifications
